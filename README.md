@@ -6,7 +6,7 @@ I did this project in order to get a firm understanding of the basics of Node.js
 
 ##Screenshots
 <div align="center">
-  <img width="45%" src="command-line.png">
+  <img width="90%" src="command-line.png">
 </div>
 
 ##Technology
